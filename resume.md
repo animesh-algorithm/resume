@@ -6,7 +6,7 @@
 
 ## Profile
 
-Product and AI engineer who grew from Gradly's founding engineer to Chief of Staff. Built the insurance experience and operating systems serving 10K+ members across 25+ U.S. universities; now leads a 10-person cross-functional team. Across four sales cycles, helped grow annual premium volume from $1.2M to $2.5M and net revenue margin from about 12% to 35%.
+Product and AI engineer with 5+ years of progression at Gradly—from Founding Engineer to Chief of Staff. Shipped Gradly's core products, internal operating systems, partner integrations, and AI Support Concierge for a platform serving 10K+ members across 25+ U.S. universities. Combines hands-on engineering with product, operations, sales, and team leadership; across four sales cycles, helped grow annual premium volume from $1.2M to $2.5M and net revenue margin from about 12% to 35%.
 
 ## Experience
 
