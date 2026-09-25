@@ -10,20 +10,20 @@ Product and AI engineer with 5+ years of progression at Gradly—from Founding E
 
 ## Experience
 
-### Gradly Incorporated · Chief of Staff | May 2025–present
+### Gradly Incorporated · Remote, U.S. · Chief of Staff | May 2025–present
 
 - Lead strategy, partnerships, legal and administrative work as the CEO's direct proxy while retaining product and engineering direction; manage a 10-person team across product, engineering, operations, support, marketing, and growth.
 - Led four sales cycles that grew annual premium volume from $1.2M to $2.5M and net revenue margin from about 12% to 35%; signed four international student-association partnerships and expanded into 15–20 more universities.
 - Launched a customer referral program; conducted 30+ interviews and hired eight people.
 
-### Gradly Incorporated · Technical Lead | February 2023–May 2025
+### Gradly Incorporated · Remote, U.S. · Technical Lead | February 2023–May 2025
 
 - Grew engineering from a solo function to a five-to-six-person team while leading architecture, hiring, and delivery.
 - Built Gradly's customer and operations platforms for insurance discovery, enrollment, member services, sales analytics, policy administration, and payments; led the React-to-Next.js migration and design system. [Customer site](https://gradly.us/) · [Insurance](https://insurance.gradly.us/) · [Member tools](https://app.gradly.us/).
 - Shipped a production AI Insurance Concierge with human-reviewed reply drafts across email, WhatsApp, SMS, and live chat; separately built auto-tagging for support routing and SLA tracking.
 - Built a claims and reimbursement platform spanning intake APIs, AI-assisted document extraction, eligibility and repricing workflows, ACH payments, and member updates; cut processing from about two weeks to seconds and reduced manual operations to one operator. Built a React Native member app and integrated five insurance partners, including EDI for two.
 
-### Gradly Incorporated · Founding Engineer | July 2021–February 2023
+### Gradly Incorporated · Remote, U.S. · Founding Engineer | July 2021–February 2023
 
 - Sole engineer for the core backend, early insurance integrations, and operations automation with Python, Zapier, and Firebase Cloud Functions; built an early AI question-answering prototype for insurance plan brochures that was later productionized.
 
