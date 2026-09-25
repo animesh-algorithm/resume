@@ -8,3 +8,4 @@
 - Preserve factual qualifiers: $2.5M across four sales cycles; VisaFile's five-minute timing was one demonstrated run; the AI Insurance Concierge ran in production across all four channels with human review; conversation auto-tagging was a separate feature.
 - Preserve all four certification links and the performance bonus unless Animesh asks to remove them. Do not invent new metrics, dates, or outcomes.
 - For each application, save a separate version under `versions/` or a job-specific branch. Do not overwrite the master with a tailored headline.
+- Do not replace or deploy `https://www.animesh.cc/resume.pdf` until Animesh explicitly confirms the reviewed version. The local PDF in `versions/` is a review copy only.
