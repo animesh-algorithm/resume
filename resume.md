@@ -16,14 +16,14 @@ Product and AI engineer who grew from Gradly's founding engineer to Chief of Sta
 - Led four sales cycles that grew annual premium volume from $1.2M to $2.5M and net revenue margin from about 12% to 35%; signed four international student-association partnerships and expanded into 15–20 more universities.
 - Launched a customer referral program; conducted 30+ interviews and hired eight people.
 
-### Gradly Incorporated · Software Engineer → Product Lead | February 2023–May 2025
+### Gradly Incorporated · Technical Lead | February 2023–May 2025
 
 - Grew engineering from a solo function to a five-to-six-person team while leading architecture, hiring, and delivery.
 - Built the internal operations platform for sales analytics, customer lifecycle tracking, policy administration, and payments. Led [Gradly](https://gradly.us/), [insurance discovery](https://insurance.gradly.us/), and [member tools](https://app.gradly.us/), including a React-to-Next.js migration and design system.
 - Shipped a production AI Insurance Concierge with human-reviewed reply drafts across email, WhatsApp, SMS, and live chat; separately built auto-tagging for support routing and SLA tracking.
 - Built EDI infrastructure for two insurance partners and integrated WellAway, GBG, SisCo, MedPrime, and FivePoints. Delivered claims APIs, AI-assisted PDF extraction, Mercury ACH reimbursements, and a React Native member app for documents, providers, claims, payments, and support.
 
-### Gradly Incorporated · Independent Contractor and Founding Engineer | July 2021–February 2023
+### Gradly Incorporated · Founding Engineer | July 2021–February 2023
 
 - Sole engineer for the core backend, early insurance integrations, and operations automation with Python, Zapier, and Firebase Cloud Functions; built an early AI question-answering prototype for insurance plan brochures that was later productionized.
 
