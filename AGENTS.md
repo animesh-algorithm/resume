@@ -2,6 +2,7 @@
 
 - Treat `resume.md` as the source of truth for this resume. Keep the Google Doc and local presentation copy synchronized with it.
 - Default headline: **Product & AI Engineer**. This is a variable. For a specific job application, choose a truthful headline that matches the target role, such as Product Engineer, AI Engineer, Engineering and Product Lead, or Chief of Staff. Change the headline in that application-specific version only, and retain the default in the master resume.
+- Treat the skills section as configurable for each application. Keep the master focused on product and leadership, AI, and core engineering capabilities. Select and reorder skills to match the role only when they are accurate; avoid a vendor-by-vendor integrations inventory or basic tool list.
 - Do not include a location in the header.
 - Keep the five professional links visible. If they wrap in a document, center the whole link row.
 - Keep both degrees together under Shri Vaishnav Vidyapeeth Vishwavidyalaya.

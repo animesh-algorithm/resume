@@ -6,7 +6,7 @@
 
 ## Profile
 
-Product and AI engineer who grew from Gradly's founding engineer to Chief of Staff. Built customer products, internal systems, AI support, claims, payments, and insurance integrations; now leads a 10-person cross-functional team. Across four sales cycles, helped grow annual premium volume from $1.2M to $2.5M and net revenue margin from about 12% to 35%.
+Product and AI engineer who grew from Gradly's founding engineer to Chief of Staff. Built the insurance experience and operating systems serving 10K+ members across 25+ U.S. universities; now leads a 10-person cross-functional team. Across four sales cycles, helped grow annual premium volume from $1.2M to $2.5M and net revenue margin from about 12% to 35%.
 
 ## Experience
 
@@ -19,9 +19,9 @@ Product and AI engineer who grew from Gradly's founding engineer to Chief of Sta
 ### Gradly Incorporated · Technical Lead | February 2023–May 2025
 
 - Grew engineering from a solo function to a five-to-six-person team while leading architecture, hiring, and delivery.
-- Built the internal operations platform for sales analytics, customer lifecycle tracking, policy administration, and payments. Led [Gradly](https://gradly.us/), [insurance discovery](https://insurance.gradly.us/), and [member tools](https://app.gradly.us/), including a React-to-Next.js migration and design system.
+- Built Gradly's customer and operations platforms for insurance discovery, enrollment, member services, sales analytics, policy administration, and payments; led the React-to-Next.js migration and design system. [Customer site](https://gradly.us/) · [Insurance](https://insurance.gradly.us/) · [Member tools](https://app.gradly.us/).
 - Shipped a production AI Insurance Concierge with human-reviewed reply drafts across email, WhatsApp, SMS, and live chat; separately built auto-tagging for support routing and SLA tracking.
-- Built EDI infrastructure for two insurance partners and integrated WellAway, GBG, SisCo, MedPrime, and FivePoints. Delivered claims APIs, AI-assisted PDF extraction, Mercury ACH reimbursements, and a React Native member app for documents, providers, claims, payments, and support.
+- Built a claims and reimbursement platform spanning intake APIs, AI-assisted document extraction, eligibility and repricing workflows, ACH payments, and member updates; cut processing from about two weeks to seconds and reduced manual operations to one operator. Built a React Native member app and integrated five insurance partners, including EDI for two.
 
 ### Gradly Incorporated · Founding Engineer | July 2021–February 2023
 
@@ -33,13 +33,13 @@ Product and AI engineer who grew from Gradly's founding engineer to Chief of Sta
 
 - **VisaFile:** DS-160 guided intake and browser worker with CAPTCHA and correction pauses. One demonstrated run took about five minutes from intake to official confirmation PDF, including user actions. [Demo](https://youtu.be/IomQnHifsFU) · [GitHub](https://github.com/animesh-algorithm/visafile).
 
-- **AI Claims Adjudication:** Automated claims intake, extraction, portal interaction, repricing report retrieval, and email distribution. [Demo](https://www.loom.com/share/b30c16086f2848efa91a0098af48d74c).
+- **AI Claims Adjudication:** End-to-end medical reimbursement flow from bill upload through eligibility, portal interaction, repricing report retrieval, ACH payment, and email confirmation. [Demo](https://www.loom.com/share/b30c16086f2848efa91a0098af48d74c).
 
 ## Skills
 
-**Engineering:** JavaScript, TypeScript, React, Next.js, Node.js, Express, Python, React Native, Firebase, Firestore, Cloud Functions, SQL, GCP, GitHub Actions, Sentry, Puppeteer.\
-**AI and data:** LLM applications, RAG, Pinecone, prompt and agent orchestration, MCP, document extraction, AI evaluation, production observability.\
-**Integrations and product:** Stripe, Mercury, Razorpay, EDI/SFTP, Algolia, Attio, Segment, DocSpring, Typeform; 0→1 product development, leadership, partnerships, sales, growth.
+**Product and leadership:** 0→1 product strategy, customer discovery, roadmap ownership, cross-functional leadership, partnerships, hiring, sales and growth.\
+**AI and data:** LLM product development, RAG, agent workflows, document intelligence, AI evaluation, production observability.\
+**Engineering:** TypeScript, JavaScript, React, Next.js, Node.js, Python, React Native, Firebase, Firestore, SQL, GCP.
 
 ## Education
 
