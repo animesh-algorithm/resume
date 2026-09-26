@@ -16,8 +16,8 @@ Product and AI engineer with 5+ years of progression at Gradly, from Founding En
 #### Chief of Staff | May 2025 – Present
 
 - Led strategy, partnerships, legal and administrative work as the CEO's direct proxy while retaining product and engineering direction; managed a 10-person team across product, engineering, operations, support, marketing, and growth.
-- Led four sales cycles that grew annual premium volume from $1.2M to $2.5M and net revenue margin from about 12% to 35%; signed four international student-association partnerships and expanded into 15–20 more universities.
-- Launched a customer referral program, which increased conversion without increasing acquisition spend; conducted 30+ interviews and hired eight people.
+- Led four sales cycles that grew annual premium volume from $1.2M to $2.5M and net revenue margin from about 12% to 35%; signed 4 international student-association partnerships and expanded into 15–20 more universities.
+- Designed & launched a customer referral program, which increased conversion without increasing acquisition spend; conducted 30+ engineering/product interviews and hired eight people.
 
 #### Technical Lead | February 2023 – May 2025
 
@@ -32,11 +32,17 @@ Product and AI engineer with 5+ years of progression at Gradly, from Founding En
 
 ## Selected projects
 
-- **AI Insurance Concierge:** Stack: OpenAI, Pinecone, Front, Firestore. RAG drafts across email, WhatsApp, SMS, and live chat with human review; separate support auto-tagging. [Demo](https://www.loom.com/share/f3c7bff788054442a555f304c29c1b6d?sid=d834c1dc-8b63-4613-a4d2-51f9302517e6).
+- **AI Insurance Concierge:** Production RAG-based support system using email, WhatsApp, SMS, and live-chat integrations. Drafted replies for human review across all four channels. Conversation auto-tagging was a separate feature.<br>
+  **Tech stack:** OpenAI, Pinecone, Front, Firestore.<br>
+  [Demo](https://www.loom.com/share/f3c7bff788054442a555f304c29c1b6d?sid=d834c1dc-8b63-4613-a4d2-51f9302517e6).
 
-- **VisaFile:** Stack: React, Fastify, BullMQ/Redis, Puppeteer, WebSocket, PostgreSQL, S3. DS-160 intake and browser worker with CAPTCHA/correction pauses; one demonstrated run took about five minutes through official confirmation PDF, including user actions. [Demo](https://youtu.be/IomQnHifsFU) · [GitHub](https://github.com/animesh-algorithm/visafile).
+- **VisaFile:** MVP for the U.S. DS-160 application, with guided intake, a background browser worker, and pauses for CAPTCHA and live corrections. One demonstrated run took about five minutes from starting intake to receiving the official confirmation PDF, including those user actions.<br>
+  **Tech stack:** React, Fastify, BullMQ/Redis, Puppeteer, WebSocket, PostgreSQL, S3.<br>
+  [Demo](https://youtu.be/IomQnHifsFU) · [GitHub](https://github.com/animesh-algorithm/visafile).
 
-- **AI Claims Adjudication:** Stack: OpenAI, Microsoft Access, Excel, email/eFax. Medical reimbursement from bill upload through eligibility, portal interaction, repricing reports, ACH payment, and email confirmation. [Demo](https://www.loom.com/share/b30c16086f2848efa91a0098af48d74c).
+- **AI Claims Adjudication:** Automated claims intake, document extraction, portal interaction, repricing report retrieval, and report distribution across an email-based workflow.<br>
+  **Tech stack:** OpenAI, Microsoft Access, Excel, email/eFax.<br>
+  [Demo](https://www.loom.com/share/b30c16086f2848efa91a0098af48d74c).
 
 ## Skills
 

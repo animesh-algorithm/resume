@@ -3,7 +3,7 @@
 - Treat `resume.md` as the source of truth for this resume. Keep the Google Doc and local presentation copy synchronized with it.
 - Default headline: **Product & AI Engineer**. This is a variable. For a specific job application, choose a truthful headline that matches the target role, such as Product Engineer, AI Engineer, Engineering and Product Lead, or Chief of Staff. Change the headline in that application-specific version only, and retain the default in the master resume.
 - Treat the skills section as configurable for each application. Keep the master focused on product and leadership, AI, and core engineering capabilities. Select and reorder skills to match the role only when they are accurate; avoid a vendor-by-vendor integrations inventory or basic tool list.
-- Give each selected project a concise, accurate tech stack alongside its product scope and outcome. Do not remove the stack merely to fit one page; adjust wording and spacing first.
+- Preserve the first-draft project descriptions, with minimal changes needed to move technologies out of the description. Give each selected project a concise, accurate tech stack on a separate line after its description, and put Demo and GitHub links on a third line. Do not remove the stack merely to fit one page; adjust wording and spacing first.
 - Do not include a location in the header.
 - Group all Gradly roles under one employer heading, with Remote, U.S. next to the employer name on the left. Keep each role and date distinct beneath it.
 - Use the supplied Google Doc at `https://docs.google.com/document/d/14DoVRHuis39Cdh2qdrIr14IT5PiQKGjKOp1TmuhzYAA/edit` as the master presentation template; retain its navy name and section hierarchy and its one-page layout when tailoring.
